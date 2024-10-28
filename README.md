@@ -1,1 +1,1 @@
-# School-Billing-System
+# School Billing System
